@@ -6,7 +6,7 @@ import Card from "../card/card";
 // import axios from "axios";
 import "./index.css";
 import data from"../../data.json";
-import { getValue } from "@testing-library/user-event/dist/utils";
+// import { getValue } from "@testing-library/user-event/dist/utils";
 const continents = ["asia", "africa", "america", "europe", "oceania"];
 
 function CardContiner() {
