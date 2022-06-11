@@ -3,6 +3,7 @@
 }
 .card{
     max-width:320px;
+  
     display:flex;
     flex-direction:column;
     border-radius: 5px;
@@ -17,6 +18,8 @@
 
 .card .card-img img{
     width: 320px;
+   
+     height: 200px;
     object-fit: contain;
 }
 .card-subtitle h5{
